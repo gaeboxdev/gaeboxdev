@@ -15,14 +15,18 @@
   </a>
 </p>
 
-## **🧐 About:**
+<img align="right" height="200" style="margin-left: 25px" src="https://media1.giphy.com/media/1jgLDGD1Bn27e/200w.gif?cid=6c09b952kdbim783cvif98uocmz5flhsznvj7jpavxz2db6t&ep=v1_gifs_search&rid=200w.gif&ct=s"/>
 
 ```diff
+< Rayssa 'chuu vírus' ⭐
 
-📚 Análise e desenvolvimento de sistemas
-💻 JavaScript
-😄 Pronomes: Ela/Dela
-💢 Movida a Lofi
+> estudante de análise e desenvolvimento de sistemas
+> conversa sobre tech e aleatoriedades;
+> gosto de ouvir lofi para estudar.
+
+! ‍criadora de conteúdo de programação e tecnologia
+! apaixonada por front-end
+! criadora de conteúdo de programação e tecnologia
 ```
 ## 🛠 **My Tools:**
 
@@ -32,6 +36,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 ![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=1F4361)
 
