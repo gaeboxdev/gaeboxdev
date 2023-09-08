@@ -1,7 +1,10 @@
+
+    
 <p align="center">
-  <img src="" />
+  <img src="hello-rayssa.png" />
 </p>
 <p align="center">
+  
   <a target="_blank" href="https://twitter.com/DevMiojo">
     <img src="https://img.shields.io/twitter/follow/DevMiojo?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter"/>
   </a>
@@ -54,4 +57,3 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melorayssa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Snake animation](https://github.com/gaeboxdev/gaeboxdev/blob/output/github-contribution-grid-snake.svg)
