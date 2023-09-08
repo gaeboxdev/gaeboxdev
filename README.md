@@ -1,3 +1,4 @@
+
 <p align="center">
   <a target="_blank" href="https://twitter.com/DevMiojo">
     <img src="https://img.shields.io/twitter/follow/DevMiojo?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter"/>
@@ -15,6 +16,7 @@
 </p>
 
 <img align="right" height="200" style="margin-left: 25px" src="https://media1.giphy.com/media/1jgLDGD1Bn27e/200w.gif?cid=6c09b952kdbim783cvif98uocmz5flhsznvj7jpavxz2db6t&ep=v1_gifs_search&rid=200w.gif&ct=s"/>
+
 
 ```diff
 < Rayssa 'chuu vírus' ⭐
