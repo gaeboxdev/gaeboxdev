@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
   <a href="https://www.twitch.tv/chuuviruus" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://open.spotify.com/playlist/5lgClSgYXdYvrMNI2WeMBb" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
 </p>
 
 <img align="right" height="200" style="margin-left: 25px" src="https://media1.giphy.com/media/1jgLDGD1Bn27e/200w.gif?cid=6c09b952kdbim783cvif98uocmz5flhsznvj7jpavxz2db6t&ep=v1_gifs_search&rid=200w.gif&ct=s"/>
