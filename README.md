@@ -58,3 +58,4 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melorayssa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melorayssa&theme=dark)](https://git.io/streak-stats)
